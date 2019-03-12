@@ -8,7 +8,6 @@ description = "just example how to use direct2d with winit"
 
 publish = false
 license = "MIT"
-license-file = "LICENSE"
 
 [dependencies]
 winit = ">=0.19"
